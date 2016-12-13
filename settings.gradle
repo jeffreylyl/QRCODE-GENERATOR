@@ -1,0 +1,1 @@
+include ':demo', ':qrcode_generator'
